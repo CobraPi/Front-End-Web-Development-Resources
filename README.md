@@ -312,6 +312,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 
 - [API Directory | ProgrammableWeb](https://www.programmableweb.com/apis/directory) ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Animista](http://animista.net/) - CSS animation presets/generator ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Practical Web Tools](https://practicalwebtools.com/) - 1,400+ free browser tools: PDF editors & converters, JSON/HTML/Markdown dev tools, image & audio converters, 200+ calculators ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Better Code Hub](https://bettercodehub.com/repositories) - Checks GitHub codebase against software engineering guidelines and gives feedback. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Browserling](https://www.browserling.com/) - Live interactive cross-browser testing on virtual machines. ![Free](https://img.shields.io/badge/-Free-brightgreen)
   ![Paid](https://img.shields.io/badge/-Paid-blue)
